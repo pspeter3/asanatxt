@@ -1,0 +1,23 @@
+{
+  "name": "asanatxt",
+  "version": "0.0.0",
+  "description": "A node script for porting Asana in todo.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pspeter3/asanatxt.git"
+  },
+  "keywords": [
+    "todo.txt",
+    "asana"
+  ],
+  "author": "Phips Peter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pspeter3/asanatxt/issues"
+  },
+  "homepage": "https://github.com/pspeter3/asanatxt"
+}
